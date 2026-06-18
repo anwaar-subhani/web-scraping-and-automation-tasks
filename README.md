@@ -50,15 +50,6 @@ Automates KFB portal scraping by ZIP code, extracts property data, and writes re
 
 ---
 
-### 6. [kfb-zip-alt](./kfb-zip-alt)
-Alternate version of the KFB ZIP scraping workflow for testing and experimentation.
-
-**Tech**: Selenium, environment-based credentials  
-**Output**: Excel exports  
-**Main script**: `script/script.py`
-
----
-
 ## License
 
 Use these projects at your own discretion. Ensure compliance with website terms of service before scraping.
