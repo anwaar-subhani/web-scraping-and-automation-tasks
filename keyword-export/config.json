@@ -1,0 +1,21 @@
+{
+  "SEARCH_KEYWORDS": [
+    "Pakistani Toys",
+    "Pakistani Clothes",
+    "Pakistani sweets",
+    "Pakistani shoes"
+  ],
+  "MARKET": "uk",
+  "MAX_THREADS": 3,
+  "_comment": "Set Amazon market with it's abbreviations:",
+  "_markets": {
+    "uk": "United Kingdom (amazon.co.uk)",
+    "fr": "France (amazon.fr)",
+    "es": "Spain (amazon.es)",
+    "it": "Italy (amazon.it)",
+    "de": "Germany (amazon.de)",
+    "se": "Sweden (amazon.se)",
+    "pl": "Poland (amazon.pl)"
+  }
+}
+

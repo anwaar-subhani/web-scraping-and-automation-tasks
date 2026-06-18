@@ -1,0 +1,14 @@
+{
+  "SEARCH_KEYWORD": "iphone 14 pro max",
+  "MARKET": "uk",
+  "_comment": "Set Amazon market with it's abbreviations:",
+  "_markets": {
+    "uk": "United Kingdom (amazon.co.uk)",
+    "fr": "France (amazon.fr)",
+    "es": "Spain (amazon.es)",
+    "it": "Italy (amazon.it)",
+    "de": "Germany (amazon.de)",
+    "se": "Sweden (amazon.se)",
+    "pl": "Poland (amazon.pl)"
+  }
+}

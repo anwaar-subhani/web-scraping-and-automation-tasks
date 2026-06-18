@@ -1,0 +1,44 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build / temp artifacts
+build/
+dist/
+temp/
+
+# Runtime data / outputs
+output/*.csv
+output/*.xlsx
+output/*.json
+*.xlsx
+*_history.json
+*cookies*.json
+session.json
+url_progress.csv
+completed_urls.csv
+processed_zipcodes.txt
+
+# Credentials / secrets
+.env
+!.env.example
+*.pem
+*credentials*.json
+*serviceAccount*.json
+
+# Browser/binary artifacts
+*.exe
+*.rar
+*.zip
+chromedriver
+chromedriver.exe

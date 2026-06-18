@@ -1,0 +1,10 @@
+{
+  "GOOGLE_SHEET_URL": "https://docs.google.com/spreadsheets/d/1AZPZdBdHn9dZHoWK6nSoz4ZgbV5aPFWmcxO0v9M_wCw/edit?usp=sharing",
+  "GOOGLE_CREDENTIALS_PATH": "scraper/credentials-api.json",
+  "SAVE_TO_EXCEL": false,
+  "MAX_THREADS": 1,
+  "CONCURRENT_PAGES": 2,
+  "USE_PROXIES": true,
+  "HEADLESS": false,
+  "_comment": "GOOGLE_SHEET_URL: Public Google Sheet containing Amazon search URLs (one per row in first column). GOOGLE_CREDENTIALS_PATH: Path to Google Service Account JSON credentials file (optional, leave empty to skip Google Sheets writing). SAVE_TO_EXCEL: Set to true to also save results to Excel files, false to only save to Google Sheets. MAX_THREADS: Number of concurrent browser instances to run. CONCURRENT_PAGES: Number of pages to process in parallel for each link. USE_PROXIES: Set to true to use proxies from proxies.txt file. HEADLESS: Set to true to run browsers in headless mode (no visible browser window, faster but harder to debug), set to false to see browser windows (useful for debugging)."
+}
