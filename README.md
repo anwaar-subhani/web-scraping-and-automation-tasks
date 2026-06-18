@@ -59,30 +59,6 @@ Alternate version of the KFB ZIP scraping workflow for testing and experimentati
 
 ---
 
-## Quick Start
-
-Each project folder has its own `README.md` with setup and usage instructions.
-
-To get started:
-
-1. Clone this repository
-2. Navigate to the project folder you want to run
-3. Follow the instructions in that project's `README.md`
-
-## Security Notes
-
-- Generated output files (`.xlsx`, `.csv`) are excluded from Git
-- Runtime session and token files are not committed
-- Use environment variables or example credential templates for sensitive data
-- All projects respect the root `.gitignore` for excluded file types
-
-## Requirements
-
-- Python 3.7 or higher
-- Playwright or Selenium (browser automation)
-- Internet connection
-- Dependencies listed in individual project `requirements.txt` files
-
 ## License
 
 Use these projects at your own discretion. Ensure compliance with website terms of service before scraping.
